@@ -11,13 +11,13 @@ Created on Sun Oct 15 22:54:58 2017
 __author__      = "nnarenraju"
 __copyright__   = "Copyright 2017, AGN_Classification"
 __credits__     = "nnarenraju"
-__license__     = "GPL"
+__license__     = "Apache License 2.0"
 __version__     = "1.0.1"
 __maintainer__  = "nnarenraju"
 __email__       = "nnarenraju@gmail.com"
 __status__      = "inUsage"
 
-Github Repository: "Add link here"
+Github Repository: "https://github.com/nnarenraju/ASIAA_SSP"
 
 """
 
