@@ -3,7 +3,7 @@
 
 """
 Project Details: 
-    non_duplicate.py 
+    non_duplicate.py  
     Retains a single instance of a galaxy, if more than one is present 
 
 Created on Sun Oct 15 22:54:58 2017
