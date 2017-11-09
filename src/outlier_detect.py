@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Project Details: 
+Project Details:  
     outlier_detect.py 
     Detects and removes outliers using diffrent methods
     Choice of algorithm is upto the user
