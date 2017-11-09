@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Project Details: 
+Project Details:  
     unify_database.py 
     Combines the 4 required databases with required columns and appropriate naming 
     Creates a CSV and FITS file of the unified data
